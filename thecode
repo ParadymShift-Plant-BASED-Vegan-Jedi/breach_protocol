@@ -1,4 +1,6 @@
 // 4x4 ? elements 50 seconds, single two sequence
+// 5x5 4 elements 30 seconds, double two sequence
+// 5x5 4 elements 30 seconds, double two sequence and advanced three sequence
 $textSplit[E9 BD FF 55 1C 7A]
 $objectCreate[{"A1":"$arrayGet[$random[1;6]]$resetRandom",
 "A2":"$arrayGet[$random[1;6]]$resetRandom",
